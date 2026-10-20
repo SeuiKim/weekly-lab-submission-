@@ -6,6 +6,7 @@ Seui Kim submission
 
 
 <img width="904" height="690" alt="Screenshot 2026-10-20 at 14 51 14" src="https://github.com/user-attachments/assets/fa90559c-87bd-4357-8e62-008b7126a1f8" />
+
 # weekly-lab-submission-
 Seui Kim submission
 ## Databases
