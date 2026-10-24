@@ -12,3 +12,11 @@ Seui Kim submission
 Seui Kim submission
 ## Databases
 - Week 4 Community Library ERD: (https://tinyurl.com/3cncnr9k)
+
+  
+<img width="972" height="697" alt="Screenshot 2026-10-25 at 09 22 16" src="https://github.com/user-attachments/assets/2cfc7555-04d1-4201-89e6-c6468f0dc858" />
+
+# weekly-lab-submission-
+Seui Kim submission
+## Databases
+- Week 4 Wholesale Shoe Store ERD: (https://tinyurl.com/2scbfbf2)
